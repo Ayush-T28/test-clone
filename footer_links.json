@@ -1,0 +1,18 @@
+[{
+    "title": "ASDFG0",
+    "links": [
+        {
+            "text":"Footer Links",
+            "url":"https://www.blockscout_zeeve.com"
+        }
+    ]
+},
+{
+    "title": "link 2",
+    "links": [
+        {
+            "text":"Footer Links 2",
+            "url":"https://www.blockscout_zeeve2.com"
+        }
+    ]
+}]
