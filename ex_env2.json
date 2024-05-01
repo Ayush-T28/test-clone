@@ -1,6 +1,10 @@
-[
-    {
-        "text":"Homepage",
-        "url":"https://www.blockscout.com"
-    }
-]
+[{
+    "title": "ASDFG0",
+    "links": [
+        {
+            "text":"Homepage",
+            "url":"https://www.blockscout.com"
+        }
+    ]
+}]
+  
