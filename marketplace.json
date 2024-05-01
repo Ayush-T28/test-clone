@@ -1,0 +1,15 @@
+{
+    "id":"app",
+    "title":"AYUSH",
+    "logo":"https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2022/10/logo-2.svg",
+    "shortDescription":"ayush app",
+    "categories": ["security", "marketplaces"],
+    "author": "trivedi",
+    "url": "https://foo.app/launch",
+    "description": "ayu best",
+    "site": "https://blockscoutsite.com",
+    "twitter": "https://blockscouttwitter.com",
+    "telegram": "https://blockscouttelegram.com",
+    "github": "https://blockscoutgithub.com"
+}
+  
